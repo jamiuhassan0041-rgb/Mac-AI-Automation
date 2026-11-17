@@ -1,0 +1,10 @@
+order_id,customer,product,quantity,unit_price,city,order_date
+1001,Ngozi,Laptop,5,450,Abuja,2026-08-01
+1002,Chidi,Charger,1,60,Lagos,2026-08-02
+1003,Zainab,Tablet,3,60,Kano,2026-08-03
+1004,Tunde,Phone,4,20,Kano,2026-08-04
+1005,Tunde,Tablet,3,60,Abuja,2026-08-05
+1006,Amina,Laptop,,300,Lagos,2026-08-06
+1007,Fatima,Phone,2,-50,,2026-08-07
+1008,Ibrahim,Headphones,1,250,Ibadan,2026-08-08
+1008,Ibrahim,Headphones,1,250,Ibadan,2026-08-08
